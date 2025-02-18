@@ -40,6 +40,7 @@ Before you begin, ensure you have the following installed on your system:
 ## Getting Started
 
 ### 1. Clone the Repository
+Project Url :  https://github.com/bdkamaci/task-tracker
 
 ```sh
 git clone https://github.com/bdkamaci/task-tracker.git
